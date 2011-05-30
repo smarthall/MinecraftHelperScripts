@@ -1,0 +1,14 @@
+MINECRAFT_JAR="/opt/mcserver/minecraft_server.jar"
+PID_FILE="/opt/mcserver/server.pid"
+SERVER_LOG="/opt/mcserver/server.log"
+
+RUN_AS_USER="mcserver"
+
+CONSOLE_IN="/opt/mcserver/console.in"
+
+WATCH_INTERVAL=1
+WATCH_TIMEOUT=60
+
+JAVA_BIN=`which java`
+JAVA_MEM_START=256M
+JAVA_MEM_MAX=512M
