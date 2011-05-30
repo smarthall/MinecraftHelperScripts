@@ -3,6 +3,7 @@
 # http://www.reddit.com/r/Minecraft/comments/drfx8/hey_linux_minecraft_server_admins_dae_use_a_fifo/
 #
 # Many thanks to hardG
+# Modifications by Daniel Hall <daniel@danielhall.me>
 
 source /etc/minecraft.conf
 
