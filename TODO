@@ -1,0 +1,7 @@
+TODO:-
+  Clean up init script to support multiple instances
+  Package in RPM
+  Backup Script
+  Generic command script
+  Console emulator
+  Readline support for console emulator
